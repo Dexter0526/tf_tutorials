@@ -28,8 +28,9 @@
 > pip install jupyter
 > jupyter notebook
 
-- NLTK와 NLTK Data 설치
+- NLTK와 NLTK Data 설치(아나콘다에 포함)
 > pip install nltk
+> nltk.download()
 
 - KoNLPy 설치
 > pip install konlpy
